@@ -762,3 +762,5 @@ Y si ahora quisieramos crear otra reserva en esa misma habitación podríamos po
 
 2. Otra posible mejora es controlar que los usuarios no tengan el mismo pasaporte, ya que es como el DNI, sería intransferible y así tener un mayor control
    sobre lois usuarios.
+
+3. Otra posible mejora, es agregar en los vuelos la capacidad total de los aviones y por cada persona que vaya haciendo la reserva vaya reduciendo la capacidad del mismo.
