@@ -764,3 +764,5 @@ Y si ahora quisieramos crear otra reserva en esa misma habitación podríamos po
    sobre lois usuarios.
 
 3. Otra posible mejora, es agregar en los vuelos la capacidad total de los aviones y por cada persona que vaya haciendo la reserva vaya reduciendo la capacidad del mismo.
+
+4. En el borrado cuando el hotel se queda inactivo, otra mejora es que se pueda volver a activar en algún momento dado con otro endPoint.
